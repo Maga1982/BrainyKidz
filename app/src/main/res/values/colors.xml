@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<<<<<<< HEAD
     <color name="colorPrimary">#ffab40</color>
     <color name="colorPrimaryDark">#c77c02</color>
     <color name="colorAccent">#FF4081</color>
@@ -11,4 +12,9 @@
     <color name="pinkneon">#ff00ff</color>
     <color name="blueneon">#00e5ff</color>
     <color name="yellow">#ffff00</color>
+=======
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+>>>>>>> 80e6a1645b470de6a86961721c265c641c0a6ac2
 </resources>

@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">BrainyKidzApp</string>
     <string name="numbers">Numbers</string>
     <string name="phonics_button_string"><b>Alphabets</b></string>
@@ -40,4 +41,7 @@
         <item>cot</item>
         <item>cat</item>
     </string-array>
+=======
+    <string name="app_name">My Application</string>
+>>>>>>> 80e6a1645b470de6a86961721c265c641c0a6ac2
 </resources>

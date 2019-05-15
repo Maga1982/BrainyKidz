@@ -7,11 +7,14 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+<<<<<<< HEAD
     <style name="GreenTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">#000</item>
         <item name="colorPrimaryDark">#000</item>
         <item name="colorAccent">@color/colorPrimary</item>
     </style>
+=======
+>>>>>>> 80e6a1645b470de6a86961721c265c641c0a6ac2
 
 </resources>
